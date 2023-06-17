@@ -1,9 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400");
 
 body{
-     font-family: 'Lato', sans-serif;
+     font-family: Arial, Helvetica, sans-serif;
+     background-color: #cde5eb;
 }
-
 .page-navbar.navbar{
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
@@ -201,6 +201,7 @@ body{
 .page-footer .social-icons{
     margin-top: 20px;
     margin-bottom: 16px;
+    background-color: #656869;
 }
 
 .page-footer .social-icons a{
